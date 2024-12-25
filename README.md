@@ -16,7 +16,7 @@ Key Components
 MultinomialNB: A probabilistic model for classification that works well with categorical and text data.
 CountVectorizer: Converts text into a sparse matrix of token counts.
 TfidfVectorizer: Enhances text representation by scaling token counts with inverse document frequency (IDF).
-DictVectorizer: Transforms feature mappings (dictionaries) into feature vectors.
+
 2. Workflow
 Load the dataset of names and corresponding gender labels.
 Preprocess and vectorize the names using the following methods:
